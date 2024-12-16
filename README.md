@@ -23,7 +23,6 @@ Welcome to my GitHub profile! I'm a passionate learner and creator, currently ex
   - Adobe Photoshop
   - Adobe Premiere Pro
 - Data Science:  
-  - [Add relevant tools if applicable, e.g., Python, R, etc.]
 
 ---
 
