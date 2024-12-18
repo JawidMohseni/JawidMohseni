@@ -2,7 +2,9 @@
 # 👋 Hi, I'm Jawid Mohseni
 
 <!--am using more than 80 Character to have a nice welcome-->
-Welcome to my GitHub profile! I'm a passionate learner and creator, currently exploring the world of computer data science. I love combining creativity with technology to solve challenges and create impactful solutions.
+Welcome to my GitHub profile! I'm a passionate learner and creator, currently
+ exploring the world of computer data science. I love combining creativity
+with technology to solve challenges and create impactful solutions.
 
 ---
 
